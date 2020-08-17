@@ -24,23 +24,32 @@ Demonstrates an understanding of
   AIRPORT       SMF  SACRAMENTO INTL                                      0.0 NM <br>
   Runway: 16L/34R  length: 8605 ft <br>
   Runway: 16R/34L  length: 8598 ft <br>
+  
 AIRPORT       MCC  MC CLELLAN AIRFIELD                                  9.1 NM <br>
   Runway: 16/34    length: 10599 ft <br>
+  
 AIRPORT       DWA  YOLO COUNTY                                         14.3 NM <br>
   Runway: 16/34    length: 6000 ft <br>
+  
 AIRPORT       MHR  SACRAMENTO MATHER                                   16.1 NM <br>
   Runway: 04L/22R  length: 6038 ft <br>
   Runway: 04R/22L  length: 11301 ft <br>
+  
 AIRPORT       LHM  LINCOLN RGNL/KARL HARDER FIELD                      17.0 NM <br>
   Runway: 15/33    length: 6001 ft <br>
+  
 AIRPORT       MYV  YUBA COUNTY                                         24.2 NM <br>
   Runway: 14/32    length: 6006 ft <br>
+  
 AIRPORT       BAB  BEALE AFB                                           27.4 NM <br>
   Runway: 15/33    length: 12001 ft <br>
+  
 AIRPORT       SUU  TRAVIS AFB                                          30.2 NM <br>
   Runway: 03L/21R  length: 11001 ft <br>
   Runway: 03R/21L  length: 10995 ft <br>
+  
 AIRPORT       OVE  OROVILLE MUNI                                       47.6 NM <br>
   Runway: 02/20    length: 6020 ft <br>
+  
 AIRPORT       SCK  STOCKTON METROPOLITAN                               50.9 NM <br>
   Runway: 11L/29R  length: 10650 ft
