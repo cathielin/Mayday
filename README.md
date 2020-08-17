@@ -18,7 +18,9 @@ Demonstrates an understanding of
   <li>Sorting data stored in vectors</li>
   
   ## Example
-  Position: (38.6954, -121.5910) with a minimum landing length of 6000 ft
+  Position: (38.6954, -121.5910) with a minimum landing length of 6000 ft 
+  
+  
   AIRPORT       SMF  SACRAMENTO INTL                                      0.0 NM <br>
   Runway: 16L/34R  length: 8605 ft <br>
   Runway: 16R/34L  length: 8598 ft <br>
